@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitoroma101
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning about biostatistics & football stats
+- 👀 I’m devoted to data analysis
+- 🌱 I’m currently focusing on biostatistics & football stats
 - 💞️ I’m looking to collaborate on prescriptive analytics for any kind of organisation
 - 📫 How to reach me info.dataville@gmail.com
 
