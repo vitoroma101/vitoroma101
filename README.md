@@ -2,7 +2,7 @@
 - 👀 I’m devoted to data analysis
 - 🌱 I’m currently focusing on biostatistics & football stats
 - 💞️ I’m looking to collaborate on prescriptive analytics for any kind of organisation
-- 📫 How to reach me info.dataville@gmail.com
+- 📫 How to reach me e.vitoroma101@go.ugr.es
 
 <!---
 vitoroma101/vitoroma101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
